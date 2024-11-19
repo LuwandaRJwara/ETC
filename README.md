@@ -31,8 +31,10 @@ Prerequisites
   Appropriate permissions and legal consent to monitor the system where the keylogger is being used.
 
 Setup Instructions
-  >>> Download/Clone the Repository: Clone or download the repository to your local machine.
-  >>> pip install pynput
+   Download/Clone the Repository: Clone or download the repository to your local machine.
+   pip install pynput
 
 ### Configure the File Path: The keylogger saves keystrokes to a file. Modify the program to specify the path where the log file should be saved (if necessary).
+
+### Run PRODIGY_CS_04.py 
 
